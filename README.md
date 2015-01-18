@@ -4,5 +4,5 @@
 
 > A new programming language in iOS and OS X
 
-  ### Swift Resources
+### Swift Resources
 * [Swift Resources](https://developer.apple.com/swift/resources/)
